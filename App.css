@@ -1,0 +1,93 @@
+#root {
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+}
+.App {
+  text-align: center;
+}
+.square {
+  width: 80px;
+  height: 80px;
+  font-size: 30px;
+  border: 1px solid white;
+  text-align: center;
+  padding: 5px;
+}
+.grid {
+  padding: 10px;
+  margin: 0 auto;
+}
+.grid-container {
+  justify-content: center;
+  align-items: center;
+}
+.sum {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  padding: 5px;
+  margin: 5px;
+  font-size: 20px;
+  text-align: center;
+}
+.sum-container {
+  justify-content: center;
+  align-items: center;
+}
+.nw {
+  position: relative;
+  bottom: 225px;
+  left: 18px;
+  width: 30px;
+  height: 30px;
+  border-radius: 100px;
+  padding: 5px;
+  font-size: 15px;
+  text-align: center;
+}
+.ne {
+  position: relative;
+  bottom: 225px;
+  left: 72px;
+  width: 30px;
+  height: 30px;
+  border-radius: 100px;
+  padding: 5px;
+  font-size: 15px;
+  text-align: center;
+}
+.se {
+  position: relative;
+  bottom: 126px;
+  right: 72px;
+  width: 30px;
+  height: 30px;
+  border-radius: 100px;
+  padding: 5px;
+  font-size: 15px;
+  text-align: center;
+}
+.sw {
+  position: relative;
+  bottom: 126px;
+  right: 18px;
+  width: 30px;
+  height: 30px;
+  border-radius: 100px;
+  padding: 5px;
+  font-size: 15px;
+  text-align: center;
+}
+button {
+  border-radius: 12px;
+  padding: 7px;
+  min-width: 70px;
+  background: black;
+  color: white;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
