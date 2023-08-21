@@ -12,6 +12,7 @@ To solve puzzles by meeting certain rules:
 **Demo:**
 https://suko.calcuis.us
 
+[<img src="https://raw.githubusercontent.com/calcuis/suko-solver-ts/master/blank.png" width="460" height="760">](https://github.com/calcuis/suko-solver-ts/blob/main/blank.png)
 [<img src="https://raw.githubusercontent.com/calcuis/suko-solver-ts/master/demo.png" width="480" height="760">](https://github.com/calcuis/suko-solver-ts/blob/main/demo.png)
 
 Have fun exploring the world of numbers and colors in Suko!
