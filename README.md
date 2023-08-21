@@ -9,7 +9,7 @@ To solve puzzles by meeting certain rules:
  - Plus, there's a colorful twist! The boxes with colors should also add up to match the total for each respective color (circle below).
 
 
-**Demo:**
+**Try it out via**
 https://suko.calcuis.us
 
 [<img src="https://raw.githubusercontent.com/calcuis/suko-solver-ts/master/blank.png" width="400" height="650">](https://github.com/calcuis/suko-solver-ts/blob/main/blank.png)
