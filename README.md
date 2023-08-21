@@ -8,10 +8,13 @@ To solve puzzles by meeting certain rules:
  - Each white circle has a number, and the sum of the four boxes around it should be equal to that number.
  - Plus, there's a colorful twist! The boxes with colors should also add up to match the total for each respective color (circle below).
 
-Have fun exploring the world of numbers and colors in Suko!
 
 **Demo:**
 https://suko.calcuis.us
+
+[<img src="https://raw.githubusercontent.com/calcuis/suko-solver-ts/master/demo.png" width="480" height="760">](https://github.com/calcuis/suko-solver-ts/blob/main/demo.png)
+
+Have fun exploring the world of numbers and colors in Suko!
 
 **References**
 
