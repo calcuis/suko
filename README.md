@@ -1,4 +1,4 @@
-## suko-solver
+## suko-solver (+check)
 
 Suko is a delightful puzzle game that will challenge your number skills!
 
