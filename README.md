@@ -2,6 +2,8 @@
 
 ***Updated Feature(s)**: Generator (generate a new set each time); Checker (check your try out); Cleanser (clear all the Grid box input excluding circled numbers); Solver (solve it by AI with zero effort)
 
+**Bot/AI's answer (via `Solve🤖`) is not a unique answer if any other possibilities exist, please use the `Check🧮️` button to check your inputted answer (it will calculate according to your input and not just compare straight to the AI's output).
+
 **Try it out via**
 https://suko.calcuis.us
 
