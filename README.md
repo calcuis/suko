@@ -1,4 +1,4 @@
-## suko-solver
+## suko
 
 ***Updated Feature(s)**: Generator/Dice (generate a new set each time); Checker (check your try out); Cleanser (clear all the Grid box input excluding circled numbers); Solver (solve it by AI with zero effort); Three levels of difficulty induced in the latest version.
 
