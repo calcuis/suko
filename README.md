@@ -2,7 +2,7 @@
 
 ***Updated Feature(s)**: Generator `Dice🎲` (generate a new set each time); Checker (check your try out); Cleanser `Clear 🧹️` (clear all the Grid box input excluding circled numbers); Solver (solve it by AI with zero effort); *Three levels of difficulty* induced in the latest version.
 
-**Bot/AI's answer (via `Solve🤖`) is not a unique answer if any other possibilities exist, please use the `Check🧮️` button to check your inputted answer (it will calculate according to your input and not merely compare straight to the AI's output).
+**Bot/AI's answer (via `Solve🤖`) is not a unique answer if any other possibilities exist, please use the `Check🧮️` button to check your inputted answer (it will calculate according to your input and does not merely compare straight to the AI's output).
 
 **Try it out via**
 https://suko.calcuis.us
