@@ -15,8 +15,8 @@ To solve puzzles by meeting certain rules:
  - Each white circle has a number, and the sum of the four boxes around it should be equal to that number.
  - Plus, there's a colorful twist! The boxes with colors should also add up to match the total for each respective color (circle below).
 
-[<img src="https://raw.githubusercontent.com/calcuis/suko-solver-ts/master/blank.png" width="300" height="500">](https://github.com/calcuis/suko-solver-ts/blob/main/blank.png)
-[<img src="https://raw.githubusercontent.com/calcuis/suko-solver-ts/master/demo.png" width="300" height="500">](https://github.com/calcuis/suko-solver-ts/blob/main/demo.png)
+[<img src="https://raw.githubusercontent.com/calcuis/suko-puzzle/master/blank.png" width="300" height="500">](https://github.com/calcuis/suko-puzzle/blob/main/blank.png)
+[<img src="https://raw.githubusercontent.com/calcuis/suko-puzzle/master/demo.png" width="300" height="500">](https://github.com/calcuis/suko-puzzle/blob/main/demo.png)
 
 Have fun exploring the world of numbers and colors in Suko!
 
